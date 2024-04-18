@@ -5,8 +5,9 @@
  * @format
  */
 
-import Pokemon from './pokeball/Pokemon';
+import {Screen} from './Calculator/Parent';
+
 const App = () => {
-  return <Pokemon />;
+  return <Screen />;
 };
 export default App;
